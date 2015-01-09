@@ -1,6 +1,6 @@
 {
   "name": "mathjax-wrapper",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "main": "./lib/main",
   "description": "MathJax in Atom",
   "repository": "https://github.com/Galadirith/mathjax-wrapper",
